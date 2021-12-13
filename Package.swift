@@ -12,5 +12,5 @@ let package = Package(
             name: "Reflection", 
             dependencies: []
         )
-    ],
+    ]
 )
